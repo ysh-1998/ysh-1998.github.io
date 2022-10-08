@@ -25,6 +25,7 @@ Jia Chen, Yiqun Liu, Yan Fang, Jiaxin Mao, Hui Fang, ***Shenghao Yang***, Xiaohu
 **(NTCIR 2021)**. [[paper]](https://www.cnki.com.cn/Article/CJFDTotal-HNLG202101004.htm)
 Education
 ======
-
+* ***2021-present***, Master student, Computer Science, Tsinghua University.
+* ***2016-2020***, B.E., Computer Science, Qinghai University. 
 Honors and Awards
 ======
