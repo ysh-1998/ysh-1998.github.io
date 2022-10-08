@@ -35,5 +35,8 @@ Education
 ======
 * ***2021-present***, Master student, Computer Science, Tsinghua University.
 * ***2016-2020***, B.E., Computer Science, Qinghai University. 
+
 Honors and Awards
 ======
+2019 ASC Student Supercomputer Challenge: Global Second prize.
+2018 ASC Student Supercomputer Challenge: Global Second prize.
