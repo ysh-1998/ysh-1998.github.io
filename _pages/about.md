@@ -38,5 +38,5 @@ Education
 
 Honors and Awards
 ======
-2019 ASC Student Supercomputer Challenge: Global Second prize.
-2018 ASC Student Supercomputer Challenge: Global Second prize.
+* 2019 ASC Student Supercomputer Challenge: Global Second prize.
+* 2018 ASC Student Supercomputer Challenge: Global Second prize.
