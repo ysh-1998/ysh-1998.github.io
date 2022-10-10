@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Shenghao Yang (杨圣豪 in chinese). I am now a second year master student at Department of Computer Science and Technology, Tsinghua University. My supervisors are [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/).
 
-My research is about Information Retrieval and Web Search. I currently focus on Neural Ranking model and Dense Retrieval in improving its effectiveness and generalization.
+My research lies in Information Retrieval and Web Search. I currently focus on Neural Ranking model and Dense Retrieval in improving its effectiveness and generalization.
 
 Publications
 ======
