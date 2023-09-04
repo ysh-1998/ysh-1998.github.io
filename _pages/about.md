@@ -14,6 +14,10 @@ My research lies in Information Retrieval and Web Search. I currently focus on N
 
 Publications
 ======
+* Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation. \
+***Shenghao Yang***, ChenyangWang, YankaiLiu, KangpingXu, WeizhiMa, YiqunLiu, MinZhang, HaitaoZeng, Junlan Feng and Chao Deng. \
+The 23rd IEEE International Conference on Data Mining.
+**(ICDM 2023)**.
 * Enhance Performance of Ad-hoc Search via Prompt Learning. \
 ***Shenghao Yang***, Yiqun Liu, Xiaohui Xie, Min Zhang and Shaoping Ma. \
 The 28th China Conference on Information Retrieval.
