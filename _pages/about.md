@@ -42,6 +42,6 @@ Honors and Awards
 ======
 * 2019 ASC Student Supercomputer Challenge: Global Second prize.
 * 2018 ASC Student Supercomputer Challenge: Global Second prize.
-* Qinghai Province university students XIAODAO scholarship.
+* Qinghai Province university students XiaoDao scholarship.
 * Qinghai University alumni scholarship.
 * Qinghai University outstanding student scholarship.
