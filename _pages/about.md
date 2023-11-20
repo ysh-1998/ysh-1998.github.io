@@ -40,8 +40,9 @@ Education
 
 Honors and Awards
 ======
+* 2023 Scholarship of Department of Computer Science, Tsinghua University
 * 2019 ASC Student Supercomputer Challenge: Global Second prize.
 * 2018 ASC Student Supercomputer Challenge: Global Second prize.
-* Qinghai Province university students XiaoDao scholarship.
-* Qinghai University alumni scholarship.
-* Qinghai University outstanding student scholarship.
+* XiaoDao scholarship of Qinghai Province.
+* Alumni scholarship of Qinghai University.
+* Outstanding student scholarship of Qinghai University.
