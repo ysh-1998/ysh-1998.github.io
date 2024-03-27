@@ -12,6 +12,14 @@ My name is Shenghao Yang (杨圣豪 in chinese). I am now a third year master st
 
 Publications
 ======
+* Sequential Recommendation with Latent Relations based on Large Language Model. \
+***Shenghao Yang***, Weizhi Ma, Peijie Sun, Qingyao Ai, Yiqun Liu, Mingchen Cai, Min Zhang. \
+The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval.
+**(SIGIR 2024)**.
+* Common Sense Enhanced Knowledge-based Recommendation with Large Language Model. \
+***Shenghao Yang***, Weizhi Ma, Peijie Sun, Min Zhang, Qingyao Ai, Yiqun Liu, Mingchen Cai. \
+The 29th International Conference on Database Systems for Advanced Applications.
+**(DASFAA 2024)**.
 * Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation. \
 ***Shenghao Yang***, Chenyang Wang, Yankai Liu, Kangping Xu, Weizhi Ma, Yiqun Liu, Min Zhang, Haitao Zeng, Junlan Feng and Chao Deng. \
 The 23rd IEEE International Conference on Data Mining.
