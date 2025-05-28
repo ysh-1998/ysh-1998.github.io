@@ -12,6 +12,10 @@ My name is Shenghao Yang (杨圣豪 in chinese). I am now a third year master st
 
 Publications
 ======
+* Explainable Multi-Modality Alignment for Transferable Recommendation. \
+***Shenghao Yang***, Weizhi Ma, Zhiqiang Guo, Min Zhang, Haiyang Wu, Junjie Zhai, Chunhui Zhang, Yuekui Yang. \
+The International World Wide Web Conference 2025.
+**(TheWebConf 2025)**.
 * Sequential Recommendation with Latent Relations based on Large Language Model. \
 ***Shenghao Yang***, Weizhi Ma, Peijie Sun, Qingyao Ai, Yiqun Liu, Mingchen Cai, Min Zhang. \
 The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval.
