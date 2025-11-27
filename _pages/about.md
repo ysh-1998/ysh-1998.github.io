@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Shenghao Yang (杨圣豪 in chinese). I am now a first year Ph.D. student at Department of Computer Science and Technology, Tsinghua University. My supervisor is [Prof. Min Zhang](http://www.thuir.cn/group/~mzhang/). My research lies in Information Retrieval and Recommender Systems.
+My name is Shenghao Yang (杨圣豪 in chinese). I am now a first year Ph.D. student at Department of Computer Science and Technology, Tsinghua University. My supervisor is [Prof. Min Zhang](http://www.thuir.cn/group/~mzhang/). My research lies in Multimodal Recommender Systems.
 
 Publications
 ======
