@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Shenghao Yang (杨圣豪 in chinese). I am now a third year master student at Department of Computer Science and Technology, Tsinghua University. My supervisor is [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My research lies in Information Retrieval and Recommender Systems.
+My name is Shenghao Yang (杨圣豪 in chinese). I am now a first year Ph.D. student at Department of Computer Science and Technology, Tsinghua University. My supervisor is [Prof. Min Zhang](http://www.thuir.cn/group/~mzhang/). My research lies in Information Retrieval and Recommender Systems.
 
 Publications
 ======
@@ -47,7 +47,8 @@ The 26th China Conference on Information Retrieval.
 
 Education
 ======
-* ***2021-present***, Master student, Computer Science, Tsinghua University.
+* ***2025-present***, Ph.D. student, Computer Science, Tsinghua University.
+* ***2021-2024***, Master student, Computer Science, Tsinghua University.
 * ***2016-2020***, B.E., Computer Science, Qinghai University. 
 
 Honors and Awards
